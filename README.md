@@ -7,7 +7,7 @@
 ## Projects:
 
   * Homie: A web app made for mobile browsers allowing those in shared households, with sometimes disorganized shopping
-    habits, track essential items.  The project was made in approximately 10 days as a team of 4.  Find the repo [Named Link](https://github.com/Lou951/HOMIE/ "here") and the project's site [Named Link](http://homie.help "here").
+    habits, track essential items.  The project was made in approximately 10 days as a team of 4.  Find the repo [here](https://github.com/Lou951/HOMIE/) and the project's site [here](http://homie.help).
 
   * Islands-R-Us: My first project, created as a team of 4 over 5 days.  An Airbnb clone allowing users to view, create and book islands.
-    Find the repo [Named Link](https://github.com/BirchAD/Islands-R-Us/ "here").
+    Find the repo [here](https://github.com/BirchAD/Islands-R-Us/).
