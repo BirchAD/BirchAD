@@ -11,3 +11,7 @@
 
   * Islands-R-Us: My first project, created as a team of 4 over 5 days.  An Airbnb clone allowing users to view, create and book islands.
     Find the repo [here](https://github.com/BirchAD/Islands-R-Us/).
+
+Aside from projects, I also enjoy CodeWars.  Here are my current stats:
+
+![Codewars](https://github.r2v.ch/codewars?user=AndrewBirch1882&stroke=COLOR)
