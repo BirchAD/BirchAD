@@ -17,4 +17,4 @@
 
 Aside from projects, I also enjoy coding challenges.  Here are my current CodeWars stats:
 
-![Codewars](https://github.r2v.ch/codewars?user=AndrewBirch1882&stroke=COLOR)
+![Codewars](https://codewars-card.herokuapp.com/api/?username=AndrewBirch1882&card&colormode=dark_mode)
