@@ -21,5 +21,7 @@ Aside from projects, I also enjoy coding challenges.  Here are my current CodeWa
 
 ![Codewars](https://codewars-card.herokuapp.com/api/?username=AndrewBirch1882&card&colormode=dark_mode)
 
+#
+
 ![image](https://user-images.githubusercontent.com/111435383/224981431-59123d16-04bc-4a59-8d73-f5cf9bf8ff35.png)
 
