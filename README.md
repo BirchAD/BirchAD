@@ -3,8 +3,7 @@
 ### About Me:
 
   * Currently a Trainee Software Engineer Consultant at Xander
-  * After many years working within the , I decided to pursue a career in something I enjoy (programming by the way).
-  * I graduated from Le Wagon bootcamp in November 2022
+  * After many years working with the U.S. Department of State, I decided to pursue a career in something I enjoy (programming by the way).  To commit to the pursuit of     a new career I enrolled into and graduated from Le Wagon Bootcamp in December 2022.
 
 ## Projects:
 
