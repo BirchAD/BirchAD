@@ -3,7 +3,7 @@
 ### About Me:
 
   * Currently a Trainee Software Engineer Consultant at Xander
-  * After many years working with the U.S. Department of State, I decided to pursue a career in something I enjoy (programming by the way).  To commit to the pursuit of     a new career I enrolled into and graduated from Le Wagon Bootcamp in December 2022.
+  * After many years working witin the immigration world, I decided to pursue a career in something I enjoy (programming).  To commit to the pursuit of a new career, I enrolled into and graduated from Le Wagon Bootcamp in December 2022.
 
 ## Projects:
 
@@ -11,9 +11,17 @@
     
   * TV/Book Club: Personal project to learn TDD using Ruby on Rails default testing environment, minitest. A web app to allow a group of friends to create combined book and tv clubs to track where each member is on the chosen show or book. Groups can then organise their meetups.  Find the repo [here](https://github.com/BirchAD/tv-show-and-book-club).
 
-  * Islands-R-Us: My first project, created as a team of 4 over 5 days.  An Airbnb clone allowing users to view, create and book islands.
+  * Islands-R-Us: My first project full stack project, created as a team of 4 over 5 days.  An Airbnb clone allowing users to view, create and book islands.
     Find the repo [here](https://github.com/BirchAD/Islands-R-Us/).
-   
+    
+## Technologies Used:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+
+## Technologies Previously Used:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" >
+
 ## Other Stuff:
 
 Aside from projects, I also enjoy coding challenges.  Here are my current CodeWars stats:
@@ -24,4 +32,3 @@ Aside from projects, I also enjoy coding challenges.  Here are my current CodeWa
 <br>
 
 ![image](https://user-images.githubusercontent.com/111435383/224981431-59123d16-04bc-4a59-8d73-f5cf9bf8ff35.png)
-
