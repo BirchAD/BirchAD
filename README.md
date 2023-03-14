@@ -2,7 +2,9 @@
 
 ### About Me:
 
-  * After many years working within the immigration "industry", I decided to pursue a career in something I enjoy (programming by the way).
+  * After many years working within the , I decided to pursue a career in something I enjoy (programming by the way).
+  * Currently a Software Engineer Consultant at Xander
+  * I graduated from Le Wagon bootcamp in November 2022
 
 ## Projects:
 
@@ -18,3 +20,6 @@
 Aside from projects, I also enjoy coding challenges.  Here are my current CodeWars stats:
 
 ![Codewars](https://codewars-card.herokuapp.com/api/?username=AndrewBirch1882&card&colormode=dark_mode)
+
+![image](https://user-images.githubusercontent.com/111435383/224981431-59123d16-04bc-4a59-8d73-f5cf9bf8ff35.png)
+
