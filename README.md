@@ -2,7 +2,7 @@
 
 ### About Me:
 
-  * Software Engineer Consultant at Xander
+  * Software Engineer Consultant at Xander Talent
   * After many years working witin the immigration world, I decided to pursue a career in something I enjoy (programming).  To commit to the pursuit of a new career, I enrolled into and graduated from Le Wagon Bootcamp in December 2022.
 
 ## Projects:
@@ -31,4 +31,4 @@ Aside from projects, I also enjoy coding challenges.  Here are my current CodeWa
 #
 <br>
 
-![image](https://user-images.githubusercontent.com/111435383/224981431-59123d16-04bc-4a59-8d73-f5cf9bf8ff35.png)
+[![image](https://user-images.githubusercontent.com/111435383/224981431-59123d16-04bc-4a59-8d73-f5cf9bf8ff35.png)](https://xandertalent.com)
