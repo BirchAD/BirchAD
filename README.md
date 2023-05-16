@@ -2,7 +2,7 @@
 
 ### About Me:
 
-  * Currently a Trainee Software Engineer Consultant at Xander
+  * Software Engineer Consultant at Xander
   * After many years working witin the immigration world, I decided to pursue a career in something I enjoy (programming).  To commit to the pursuit of a new career, I enrolled into and graduated from Le Wagon Bootcamp in December 2022.
 
 ## Projects:
